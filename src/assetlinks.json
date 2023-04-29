@@ -1,0 +1,6 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app",
+              "package_name": "online.RealEstateTalk",
+               "sha256_cert_fingerprints": ["1B:16:72:45:12:39:7A:32:99:EC:7A:CB:CD:F7:DB:9E:71:A1:0E:34:77:BA:36:E7:4A:F1:71:8C:50:9D:C1:11"] }
+}]

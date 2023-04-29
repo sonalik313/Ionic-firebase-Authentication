@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rete-app</string>
+    <string name="title_activity_main">rete-app</string>
+    <string name="package_name">online.RealEstateTalk</string>
+    <string name="custom_url_scheme">online.RealEstateTalk</string>
+</resources>
